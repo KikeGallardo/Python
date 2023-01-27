@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="Fondos">
+    <file>Fondo de Luces.jfif</file>
+    <file>Fondo Gris claro.jpg</file>
+    <file>Fondo Gris.png</file>
+    <file>Fondo Respaldo.png</file>
+  </qresource>
+  <qresource prefix="Logos">
+    <file>Logo Blanco.png</file>
+    <file>Logo Gris.png</file>
+    <file>Logo Negro.png</file>
+  </qresource>
+</RCC>
